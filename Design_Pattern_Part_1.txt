@@ -1,0 +1,13 @@
+1. State.
+2. Composite.
+3. Proxy.
+4. Prototype.
+5. Chain of responsibility.
+6. Visitor.
+7. Mediator.
+8. Builder.
+9. Abstract factory.
+10. Decorator.
+11. Memento.
+12.Factory method.
+13. Adapter.
